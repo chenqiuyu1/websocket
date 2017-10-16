@@ -4,6 +4,7 @@
  * Date: 2017/10/14
  * Time: 16:58
  */
+
 error_reporting(E_ALL);
 set_time_limit(0);// 设置超时时间为无限,防止超时
 date_default_timezone_set('Asia/shanghai');
